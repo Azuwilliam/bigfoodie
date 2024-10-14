@@ -22,8 +22,8 @@ button{
     color: red;
     text-decoration: none;
     list-style-type: none;  
-}f
-.list a {
+}
+.list li a {
     text-decoration: none;
     color: orangered;
     list-style-type: none;
