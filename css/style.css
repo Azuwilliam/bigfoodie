@@ -1,0 +1,502 @@
+body{
+    background-image: url(/images/various-vegetables-black-table-with-space-message.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.logo{
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: green;
+    font-size: 50px;
+    text-align: center;
+}
+button{
+    outline: none;
+    border: none;
+}
+.list{
+    display: flex;
+    gap: 80px;
+    font-weight: bold;
+    margin-left: 360px;
+    color: red;
+    text-decoration: none;
+    list-style-type: none;  
+}f
+.list a {
+    text-decoration: none;
+    color: orangered;
+    list-style-type: none;
+}
+#menu{
+    text-decoration: underline;
+    text-underline-offset: 8px;
+}
+
+
+#find-item{
+    font-weight: bold;
+    background-color: red;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    margin-top: 9px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 140px;
+}
+.inp{
+    margin-top: 10px;
+    margin-left: 900px;
+}
+#search-for-item{
+    font-weight: bold;
+    color: red;
+    padding-left: 12px;
+    padding: 10px;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+}
+.car{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    background-color: blue;
+    font-weight: bold;
+    font-size: 20px;
+    align-items: center;
+    position: relative;
+    
+}
+#span{
+    position: absolute;
+    margin-bottom: 32px;
+    margin-left: 10px;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background-color: red;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: -9px;
+    margin-left: 35px;
+}
+#it{
+    font-weight: bold;
+}
+.glass{
+    font-weight: bold;
+    font-size: 17px;
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    background-color: blue;
+    color: pink;
+    padding-left: 9px;
+    padding-top: 7px;
+}
+.master{
+    display: flex;
+    gap: 20px;
+}
+#btn{
+    font-weight: bold;
+    height: 50px;
+    width: 50%;
+    border-radius: 20px;
+    background-color: green;
+}
+.one{
+  margin-top: 80px;
+  color: red;
+  text-align: center;  
+}
+.two{
+    margin-top: 80px;  
+    color: red;
+    text-align: center;  
+}
+.three{
+    margin-top: 80px; 
+    color: red;
+    text-align: center;   
+}
+.one-one{
+    margin-top: 80px;
+    color: red;
+    text-align: center;  
+}
+  .two-two{
+      margin-top: 80px;  
+      color: red;
+      text-align: center;  
+}
+  .three-three{
+      margin-top: 80px; 
+      color: red;
+      text-align: center;   
+}
+.four{
+    margin-top: 80px;
+    color: red;
+    text-align: center;  
+}
+  .four-four{
+      margin-top: 80px;  
+      color: red;
+      text-align: center;  
+}
+  .five{
+      margin-top: 80px; 
+      color: red;
+      text-align: center;   
+}
+#add{
+    background-color: red;
+    height: 40px;
+    font-weight: bold;
+    margin-left: 23%;
+    border-radius: 6px;
+    margin-top: 30px;
+}
+#add-btn{
+    background-color: red;
+    height: 40px;
+    font-weight: bold;
+    margin-left: 23%;
+    border-radius: 6px;
+    margin-top: 30px;
+}
+#add-btn-one{
+    background-color: red;
+    height: 40px;
+    font-weight: bold;
+    margin-left: 23%;
+    border-radius: 6px;
+    margin-top: 30px;
+}
+#add-btn-two{
+    background-color: red;
+    height: 40px;
+    font-weight: bold;
+    margin-left: 23%;
+    border-radius: 6px;
+    margin-top: 30px;
+}
+#add-btn-three{
+    background-color: red;
+    height: 40px;
+    font-weight: bold;
+    margin-left: 23%;
+    border-radius: 6px;
+    margin-top: 30px;
+}
+#add-btn-four{
+    background-color: red;
+    height: 40px;
+    font-weight: bold;
+    margin-left: 23%;
+    border-radius: 6px;
+    margin-top: 30px;
+}
+#add-btn-five{
+    background-color: red;
+    height: 40px;
+    font-weight: bold;
+    margin-left: 23%;
+    border-radius: 6px;
+    margin-top: 30px;
+}
+#add-btn-six{
+    background-color: red;
+    height: 40px;
+    font-weight: bold;
+    margin-left: 23%;
+    border-radius: 6px;
+    margin-top: 30px;
+}
+#add-btn-seven{
+    background-color: red;
+    height: 40px;
+    font-weight: bold;
+    margin-left: 23%;
+    border-radius: 6px;
+    margin-top: 30px;
+}
+#to{
+    background-color: red;
+    height: 40px;
+    font-weight: bold;
+    margin-left: 28%;
+    border-radius: 6px;
+    margin-top: 30px;
+}
+#hint{
+    font-weight: bold;
+    font-size: 23px;
+    color: green;
+    text-align: center;
+    margin-top: 15px;
+}
+.import{
+    list-style-type: none;
+    font-weight: bold;
+    margin-top: 70px;
+    color: green;
+}
+.best{
+    background-color: black;
+    margin-top: 40px;
+}
+#cart{
+    background-color: red;
+    height: 40px;
+    font-weight: bold;
+    margin-left: 28%;
+    border-radius: 6px;
+    margin-top: 30px;
+    outline: none;
+    border: none;
+}
+#in{
+    height: 250px;
+    border-radius: 7px;
+}
+#in-one{
+    height: 250px;
+    border-radius: 7px;
+}
+#in-two{
+    height: 250px;
+    border-radius: 7px;
+}
+#in-three{
+    height: 250px;
+    border-radius: 7px;
+}
+#in-four{
+    height: 250px;
+    border-radius: 7px;
+}
+#in-five{
+    height: 250px;
+    border-radius: 7px;
+}
+#in-six{
+    height: 250px;
+    border-radius: 7px;
+}
+#in-seven{
+    height: 250px;
+    border-radius: 7px;
+}
+#in-eight{
+    height: 250px;
+    border-radius: 7px;
+}
+
+#in:hover{
+    height: 220px;
+    border-radius: 7px;
+}
+#in-one:hover{
+    height: 240px;
+    border-radius: 7px;
+}
+#in-two:hover{
+    height: 240px;
+    border-radius: 7px;
+}
+#in-three:hover{
+    height: 240px;
+    border-radius: 7px;
+}
+#in-four:hover{
+    height: 240px;
+    border-radius: 7px;
+}
+#in-five:hover{
+    height: 240px;
+    border-radius: 7px;
+}
+#in-six:hover{
+    height: 240px;
+    border-radius: 7px;
+}
+#in-seven:hover{
+    height: 240px;
+    border-radius: 7px;
+}
+#in-eight:hover{
+    height: 240px;
+    border-radius: 7px;
+}
+
+#price{
+    font-weight: bold;
+    margin-left: 35%;
+    padding-top: 20px;
+    color: red;
+}
+#price-one{
+    font-weight: bold;
+    margin-left: 35%;
+    color: red;
+}
+#price-two{
+    font-weight: bold;
+    margin-left: 35%;
+    color: red;
+}
+#qty{
+    font-weight: bold;
+    padding-left: 30px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: bisque;
+    align-items: end;
+    margin-left: 850px;
+}
+.he{
+    background-color: yellow;
+}
+@media only screen and (max-width: 768px) {
+    body{
+        background-image: url(/images/various-vegetables-black-table-with-space-message.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .container {
+      max-width: 100%;
+      padding: 20px;
+    }
+  
+    .row {
+      flex-direction: column;
+    }
+  
+    .col-3, .col-md-4 {
+      width: 100%;
+      margin-bottom: 20px;
+    }
+  
+    .logo {
+      font-size: 60px;
+    }
+  
+    .list {
+      flex-direction: column;
+      gap: 20px;
+      margin-left: 0;
+    }
+  
+    .list a {
+      font-size: 18px;
+    }
+  
+    .inp {
+      margin-top: 20px;
+      margin-left: 0;
+    }
+  
+    #search-for-item {
+      width: 100%;
+      padding: 10px;
+    }
+  
+    #find-item {
+      width: 25%;
+      margin-top: 10px;
+      margin-right: 60px;
+    }
+  
+    .car {
+      height: 30px;
+      width: 30px;
+      font-size: 16px;
+    }
+  
+    #span {
+      font-size: 14px;
+      margin-bottom: 10px;
+      margin-left: 10px;
+    }
+  
+    /* Adjust the styles for the food items */
+    .one, .two, .three, .four, .five {
+      margin-top: 20px;
+    }
+  
+    #price, #price-one, #price-two {
+      font-size: 18px;
+      margin-left: 20px;
+    }
+  
+    #add, #add-btn, #add-btn-one, #add-btn-two, #add-btn-three, #add-btn-four, #add-btn-five, #add-btn-six, #add-btn-seven {
+      width: 60%;
+      margin-top: 10px;
+        margin-left: 40px;
+    }
+  
+    /* Adjust the styles for the images */
+    #in, #in-one, #in-two, #in-three, #in-four, #in-five, #in-six, #in-seven, #in-eight {
+      height: 200px;
+      width: 100%;
+      border-radius: 10px;
+    }
+    #span {
+        font-size: 14px;
+        margin-bottom: 10px;
+        margin-left: 10px;
+      }
+      #span{
+        position: absolute;
+        margin-bottom: 32px;
+        margin-left: 17px;
+        height: 20px;
+        width: 20px;
+        border-radius: 50%;
+        background-color: red;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        margin-top: 6px;
+       
+    }
+    #price{
+        margin-left: 100px;
+    }
+    #price-one{
+        margin-left: 100px;
+    }
+    #price-two{
+        margin-left: 100px;
+    }
+    #a{
+        margin-right: 45px;
+    }
+    #b{
+        margin-right: 45px;
+    }
+    #c{
+        margin-right: 45px;
+    }
+    #d{
+        margin-right: 45px;
+    }
+    #e{
+        margin-right: 45px;
+    }
+    #e{
+        margin-right: 45px;
+    }
+    #f{
+        margin-right: 45px;
+    }
+    
+  }
+  
